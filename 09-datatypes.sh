@@ -10,4 +10,4 @@ echo "SUM is: ${SUM}"
 
 NAMES=("Sheshasai" "Daddy" "Mommy")
 
-echo "All Names are: ${NAMES}"
+echo "All Names are: ${NAMES[@]}"
