@@ -8,6 +8,6 @@ SUM=$((NUMBER1+$NUMBER2+$NAME))
 
 echo "SUM is: ${SUM}"
 
-NAMES=("Sheshasai", "Daddy", "Mommy")
+NAMES=("Sheshasai" "Daddy" "Mommy")
 
 echo "All Names are: ${NAMES}"
