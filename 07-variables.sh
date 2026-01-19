@@ -3,8 +3,6 @@
 #DATE=$(date)
 
 
-date=$(date %F)
-
 START_TIME=$(date +%s)
 
 sleep 10 
