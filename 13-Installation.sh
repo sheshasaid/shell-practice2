@@ -23,5 +23,5 @@ VALIDATE $? "MY SQL"
 dnf install nginx -y
 VALIDATE $? "Nginx"
 
-dnf install mongodb-mongosh -y
-VALIDATE $? "Mongodb"
+dnf install python3 -y
+VALIDATE $? "python3"
